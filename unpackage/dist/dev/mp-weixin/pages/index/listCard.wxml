@@ -1,0 +1,1 @@
+<view class="container" style="{{'background-color:'+(bgc)+';'+('height:'+(loadHeight||'100vh')+';')}}"><text>{{title}}</text><text>{{"height: "+loadHeight}}</text></view>

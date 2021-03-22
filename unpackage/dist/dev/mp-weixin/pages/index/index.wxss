@@ -1,0 +1,27 @@
+
+.wrapper{
+}
+.btn_tab{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	height: 30px;
+}
+.btn_tab button{
+	-webkit-box-flex :1;
+	-webkit-flex :1;
+	        flex :1;
+	 margin: 3px;
+	 font-size: 10px;
+	 box-shadow: 0 0 10px 3px #ccc;
+}
+.active {
+	background-color: #000;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.swiper {
+	height: 100vh;
+	max-width: 100vw;
+}
+
